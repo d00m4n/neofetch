@@ -1,0 +1,2 @@
+# neofetch
+My custom config
